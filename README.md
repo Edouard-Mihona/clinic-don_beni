@@ -1,1 +1,4 @@
-# clinic-don_beni
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
